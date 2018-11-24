@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log( JSON.stringify( require( './me.json' ), null, 3 ) );
+console.log( JSON.stringify( require( './bartlomiejosadnik.json' ), null, 3 ) );
