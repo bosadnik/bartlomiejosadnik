@@ -1,0 +1,25 @@
+{
+  "name": "bartlomiejosadnik",
+  "version": "1.0.0",
+  "description": "Contact Info about author",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "main": "index.js",
+  "bin": {
+    "elijahmanor": "./index.js"
+  },
+  "scripts": {
+    "postinstall": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bosadnik/bartlomiejosadnik"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Bartłomiej Osadnik",
+  "license": "ISC"
+}
